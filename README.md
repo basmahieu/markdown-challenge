@@ -51,4 +51,4 @@ Friend did a amazing stunt with motorcycle.
 
 
 
-[ << Previous ](http://github.com) || BAS || [ Next >> ](https://github.com/DriesDD/markdown-challenge/blob/master/README.md)
+[ << Previous - Balder ](http://github.com) || BAS || [ Dries - Next >> ](https://github.com/DriesDD/markdown-challenge/blob/master/README.md)
