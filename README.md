@@ -17,5 +17,5 @@ First Header | Second Header
 Birthday: | March 10, 1991
 Favorite color:| Blue
 Favorite food: | Spaghetti and Burgers
-Pinneapple on pizza: | - [ ] Yes  - [X] No
+Pinneapple on pizza: | - [ ] Yes  - [x] No 
 
