@@ -10,14 +10,14 @@ Challenge of the day - Markdown
 ![alt text](assets/profile_v1.png)
 
 
-## I like to do stuff
+## I like to do stuff test
 
 Question | Answer
 ------------ | -------------
-Birthday: | March 10, 1991
-Favorite color:| A mix of RGB
-Favorite food: | Spaghetti and Burgers!
-Pinneapple on pizza: | <ul><li>[x] No, thanks</li><li>[ ] Yes</li></ul>
+Birthday :calendar:: | March 10, 1991
+Favorite color :white_circle::| A mix of RGB
+Favorite food :fork_and_knife:: | Spaghetti and Burgers!
+Pinneapple on pizza :pizza:: | <ul><li>[x] No, thanks</li><li>[ ] Yes</li></ul>
 
 ### Hobbies
 
