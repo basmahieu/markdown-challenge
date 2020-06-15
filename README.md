@@ -19,18 +19,20 @@ Favorite color:| Blue
 Favorite food: | Spaghetti and Burgers
 Pinneapple on pizza: | <ul><li>[x] NO!</li><li>[ ] Yes</li></ul>
 
+### Hobbies
+
+* Design
+    * UI/UX design
+    * 3D design
+    * Webdesign
+* Animations
+* Motorcycles
+* Travel
 
 
-- [x] this is a complete item
-- [ ] this is an incomplete item
+#### You can always count on me when I know I have the knowledgde and capability to help you out
 
-| Task           | Time required | Assigned to   | Current Status | Finished | 
-|----------------|---------------|---------------|----------------|-----------|
-| Calendar Cache | > 5 hours  |  | in progress | - [x] ok?
-| Object Cache   | > 5 hours  |  | in progress | [x] item1<br/>[ ] item2
-| Object Cache   | > 5 hours  |  | in progress | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
-| Object Cache   | > 5 hours  |  | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
-
-
-- [x] works
-- [x] works too
+I have a background in **digital design**, meaning I know some basics rules when designing a website.
+( What's a good font height, is there enough contrast, spacing, ...) 
+Also I have some experience using Creative cloud apps like Photoshop, Adobe XD, Premiere, Illustrator, ...
+I would love to help here.
