@@ -19,6 +19,8 @@ Question | Answer
 :fork_and_knife: Favorite food: | Spaghetti and Burgers!
 :pizza:Pinneapple on pizza: | <ul><li>[x] No, thanks</li><li>[ ] Yes</li></ul>
 
+-------------------
+
 ### Hobbies
 
 * Design
@@ -32,6 +34,7 @@ Question | Answer
 * Sports
 
 
+-------------------
 
 
 #### You can always count on me when I have the knowledgde and capability to help you out
@@ -39,7 +42,7 @@ Question | Answer
 I have a background in **digital design**, so I can help with the basic rules when designing a website or application.
 Also I have some experience with Creative Cloud. So if you have a question about Photoshop, Adobe XD, Illustrator & After effects let me know. 
 
-
+-------------------
 ##### A funny story
 
 When I was traveling in SE Asia me and 2 friends bought some old motorcycles to ride in Cambodja.
