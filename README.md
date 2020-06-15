@@ -12,3 +12,8 @@ Challenge of the day - Markdown
 
 ## I like to do stuff
 
+First Header | Second Header
+------------ | -------------
+Birthday: | March 10, 1991
+Favorite color:| Blue
+Favorite food: | Spaghetti and Burgers
