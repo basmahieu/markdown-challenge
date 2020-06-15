@@ -52,4 +52,8 @@ Friend and Cow were okay!
 
 
 
+
+
+-------------------
+
 [ << Previous - Balder ](https://github.com/balderb/markdown-challenge/blob/master/README.md) || BAS MAHIEU || [ Dries - Next >> ](https://github.com/DriesDD/markdown-challenge/blob/master/README.md)
