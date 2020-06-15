@@ -47,7 +47,7 @@ It was rainy season and my friend was not used to riding. So when we had to cros
 Friend and Cow were okay!
 
 ###### TL;DR
-Friend did a amazing stunt with motorcycle.
+Friend did a amazing stunt on a motorcycle.
 
 
 
