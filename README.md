@@ -36,11 +36,6 @@ Question | Answer
 
 #### You can always count on me when I have the knowledgde and capability to help you out
 
-I have a background in **digital design**, meaning I know some basics rules when designing a website.
-(For example What's a good font height, is there enough contrast, spacing, ...) 
-Also I have some experience using Creative cloud apps like Photoshop, Adobe XD, Premiere, Illustrator, ...
-I would love to help here.
-
 I have a background in **digital design**, so I can help with the basic rules when designing a website or application.
 Also I have some experience with Creative Cloud. So if you have a question about Photoshop, Adobe XD, Illustrator & After effects let me know. 
 
