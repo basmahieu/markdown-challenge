@@ -47,5 +47,5 @@ Friend and Cow were okay!
 Friend did a amazing stunt with motorcycle.
 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+[ << Previous ](http://github.com) || BAS || [ Next >> ](http://github.com)
