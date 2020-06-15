@@ -12,7 +12,7 @@ Challenge of the day - Markdown
 
 ## I like to do stuff
 
-
+Question | Answer
 ------------ | -------------
 Birthday: | March 10, 1991
 Favorite color:| Blue
