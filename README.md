@@ -7,6 +7,6 @@ Challenge of the day - Markdown
 
 *Input inspirational code here*
 
-![alt text](/Users/bas/Desktop/becode/Github/markdown-challenge/assets/51859811.png?raw=true)
+![alt text](/Users/bas/Desktop/becode/Github/markdown-challenge/assets/51859811.png)
 
 
