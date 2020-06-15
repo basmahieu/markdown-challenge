@@ -43,7 +43,7 @@ Also I have some experience with Creative Cloud. So if you have a question about
 ##### A funny story
 
 When I was traveling in SE Asia me and 2 friends bought some old motorcycles to ride in Cambodja.
-It was rain season and my friend was not used to riding. So when we had to cross a railway which was on a small hill he got stuck in the mud. His first reflex was to give full throttle and ofcourse that worked but he really flew over the railway and almost hit a cow. 
+It was rain season and my friend was not used to riding. So when we had to cross a railway which was on a small hill he got stuck in the mud. His first reflex was to give full throttle and ofcourse that worked really well. He flew over the railway and almost hit a cow. 
 
 Friend and Cow were okay!
 
