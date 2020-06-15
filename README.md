@@ -7,7 +7,7 @@ Challenge of the day - Markdown
 
 *Input inspirational code here*
 
-![alt text](assets/51859811.png)
+![alt text](assets/profile_v1.png)
 
 
 ## I like to do stuff
@@ -17,7 +17,7 @@ Question | Answer
 Birthday: | March 10, 1991
 Favorite color:| Blue
 Favorite food: | Spaghetti and Burgers!
-Pinneapple on pizza: | <ul><li>[x] NO!</li><<li>[ ] Yes</li></ul>
+Pinneapple on pizza: | <ul><li>[x] NO!</li><li>[ ] Yes</li></ul>
 
 ### Hobbies
 
@@ -33,7 +33,7 @@ Pinneapple on pizza: | <ul><li>[x] NO!</li><<li>[ ] Yes</li></ul>
 
 
 
-#### You can always count on me when I have the knowledgde and capability to help you out and otherwise i will try anyway.
+#### You can always count on me when I have the knowledgde and capability to help you out and otherwise I will try anyway.
 
 I have a background in **digital design**, meaning I know some basics rules when designing a website.
 ( for example What's a good font height, is there enough contrast, spacing, ...) 
@@ -51,4 +51,4 @@ Friend did a amazing stunt with motorcycle.
 
 
 
-[ << Previous ](http://github.com) || BAS || [ Next >> ](http://github.com)
+[ << Previous ](http://github.com) || BAS || [ Next >> ](https://github.com/DriesDD/markdown-challenge/blob/master/README.md)
