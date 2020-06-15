@@ -7,6 +7,8 @@ Challenge of the day - Markdown
 
 *Input inspirational code here*
 
-![alt text](/Users/bas/Desktop/becode/Github/markdown-challenge/assets/51859811.png)
+![alt text](/markdown-challenge/assets/51859811.png)
 
+
+## I like to do stuff
 
