@@ -15,9 +15,9 @@ Challenge of the day - Markdown
 Question | Answer
 ------------ | -------------
 Birthday: | March 10, 1991
-Favorite color:| Blue
+Favorite color:| A mix of RGB
 Favorite food: | Spaghetti and Burgers!
-Pinneapple on pizza: | <ul><li>[x] NO!</li><li>[ ] Yes</li></ul>
+Pinneapple on pizza: | <ul><li>[x] No, thanks</li><li>[ ] Yes</li></ul>
 
 ### Hobbies
 
@@ -33,10 +33,10 @@ Pinneapple on pizza: | <ul><li>[x] NO!</li><li>[ ] Yes</li></ul>
 
 
 
-#### You can always count on me when I have the knowledgde and capability to help you out and otherwise I will try anyway.
+#### You can always count on me when I have the knowledgde and capability to help you out
 
 I have a background in **digital design**, meaning I know some basics rules when designing a website.
-( for example What's a good font height, is there enough contrast, spacing, ...) 
+(For example What's a good font height, is there enough contrast, spacing, ...) 
 Also I have some experience using Creative cloud apps like Photoshop, Adobe XD, Premiere, Illustrator, ...
 I would love to help here.
 
