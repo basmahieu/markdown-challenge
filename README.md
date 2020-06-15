@@ -30,7 +30,7 @@ Pinneapple on pizza: | <ul><li>[x] NO!</li><li>[ ] Yes</li></ul>
 * Travel
 
 
-#### You can always count on me when I know I have the knowledgde and capability to help you out
+#### You can always count on me when I have the knowledgde and capability to help you out and otherwise i will try anyway.
 
 I have a background in **digital design**, meaning I know some basics rules when designing a website.
 ( for example What's a good font height, is there enough contrast, spacing, ...) 
@@ -47,3 +47,5 @@ Friend and Cow were okay!
 Friend did a amazing stunt with motorcycle.
 
 
+http://github.com - automatic!
+[GitHub](http://github.com)
