@@ -17,7 +17,7 @@ Question | Answer
 Birthday: | March 10, 1991
 Favorite color:| Blue
 Favorite food: | Spaghetti and Burgers!
-Pinneapple on pizza: | <ul><li>[x] NO! NO!</li><li>[ ] Yes</li></ul>
+Pinneapple on pizza: | <ul><li>[x] NO!</li><li>[x] NO!</li><li>[x] NO!</li><li>[ ] Yes</li></ul>
 
 ### Hobbies
 
