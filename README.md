@@ -12,12 +12,12 @@ Challenge of the day - Markdown
 
 ## I like to do stuff
 
-First Header | Second Header
+
 ------------ | -------------
 Birthday: | March 10, 1991
 Favorite color:| Blue
-Favorite food: | Spaghetti and Burgers
-Pinneapple on pizza: | <ul><li>[x] NO!</li><li>[ ] Yes</li></ul>
+Favorite food: | Spaghetti and Burgers!
+Pinneapple on pizza: | <ul><li>[x] NO! NO!</li><li>[ ] Yes</li></ul>
 
 ### Hobbies
 
@@ -28,6 +28,8 @@ Pinneapple on pizza: | <ul><li>[x] NO!</li><li>[ ] Yes</li></ul>
 * Animations
 * Motorcycles
 * Travel
+* Games
+
 
 
 #### You can always count on me when I have the knowledgde and capability to help you out and otherwise i will try anyway.
